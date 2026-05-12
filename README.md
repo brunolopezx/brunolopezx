@@ -44,7 +44,7 @@ Trabajo con clientes y empresas para transformar ideas en productos digitales re
 
 ¿Tenés un proyecto en mente? Hablemos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/brunolopez](https://www.linkedin.com/in/bruno-lopez-scida/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopez-scida/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=flat&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=brunolopezx.dev@gmail.com)
 
