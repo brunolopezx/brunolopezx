@@ -1,23 +1,22 @@
-# Hola, soy Bruno Lopez 👋
+# Hey, I´m Bruno Lopez 👋
 
 ### Frontend Developer · React · Flutter · Angular
 
-Desarrollo interfaces web y mobile modernas, funcionales y con atención al detalle.
-Trabajo con clientes y empresas para transformar ideas en productos digitales reales.
+Frontend Developer focused on building modern, fast and polished digital experiences.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Descripción | Stack | Demo |
+| Project | Description | Stack | Demo |
 |----------|-------------|-------|------|
-| **ÉLAN Store** | Tienda de indumentaria con carrito y checkout | React · Tailwind · Zustand | [Ver demo](https://elan-store-tan.vercel.app) |
-| **Don Pedro** | Landing de restaurante con menú interactivo y reservas | React · Framer Motion | [Ver demo](https://don-pedro.vercel.app) |
-| **VISTA Propiedades** | Plataforma inmobiliaria con filtros y calculadora de hipoteca | React · React Hook Form | [Ver demo](https://vista-propiedades.vercel.app) |
+| **ÉLAN Store** | E-commerce experience with cart and checkout flow  | React · Tailwind · Zustand | [Demo](https://elan-store-tan.vercel.app) |
+| **Don Pedro** | Restaurant landing page optimized for conversion | React · Framer Motion | [Demo](https://don-pedro.vercel.app) |
+| **VISTA Properties** | Real estate platform with filters & mortgage tools | React · React Hook Form | [Demo](https://vista-propiedades.vercel.app) |
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 **Frontend**
 `React` `Angular` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind CSS`
@@ -25,24 +24,24 @@ Trabajo con clientes y empresas para transformar ideas en productos digitales re
 **Mobile**
 `Flutter` `Dart` `Kotlin` `Android Studio` `Xcode`
 
-**Backend & Base de datos**
+**Backend & Database**
 `C#` `Java` `SQL` `PL/SQL` `Node.js`
 
-**Herramientas**
+**Tools**
 `Git` `GitHub` `Postman` `Jira` `Figma` `VS Code` `Eclipse`
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-- 🇦🇷 Español — Nativo
-- 🇺🇸 Inglés — C1 Advanced
+- 🇦🇷 Spanish — Native
+- 🇺🇸 English — C1 Advanced
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-¿Tenés un proyecto en mente? Hablemos.
+Have a project in mind? Let´s talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopez-scida/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=flat&logo=vercel&logoColor=white)](#)
@@ -50,4 +49,4 @@ Trabajo con clientes y empresas para transformar ideas en productos digitales re
 
 ---
 
-*Disponible para proyectos freelance y oportunidades laborales.*
+*Available for freelance and job opportunities.*
