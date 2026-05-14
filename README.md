@@ -44,7 +44,7 @@ Frontend Developer focused on building modern, fast and polished digital experie
 Have a project in mind? Let´s talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopez-scida/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=flat&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=flat&logo=vercel&logoColor=white)](https://bruno-lopez.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=brunolopezx.dev@gmail.com)
 
 ---
